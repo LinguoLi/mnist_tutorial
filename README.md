@@ -22,4 +22,5 @@ Code tested on following environments, other version should also work:
 
 # For EE369 students from SJTU
 Please read [HEAR](EE369.md).
-Complished by JiangJinghui from EE369 SJTU
+* Complished homework in .py files
+* Edited by JiangJinghui from EE369 SJTU

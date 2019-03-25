@@ -20,5 +20,5 @@ Code tested on following environments, other version should also work:
 * pytorch 0.4.1
 * keras 2.1.2
 
-# For EE369 students from SJTU
+# For students from SJTU
 Please read [HEAR](EE369.md).
